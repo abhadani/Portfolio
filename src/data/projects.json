@@ -1,26 +1,18 @@
 [
     {
-      "title": "Project A",
+      "title": "Food Order Web Application",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "Responsive web app for online food ordering from a restaurant.",
+      "skills": ["React", "JavaScript", "HTML", "CSS"],
+      "demo": "https://foodorderapp-bee4f.web.app/",
+      "source": "https://github.com/abhadani/FoodOrderApp/"
     },
     {
-      "title": "Project B",
+      "title": "Expense Tracker Web Application",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "web application to track daily expenses of the user.",
+      "skills": ["React", "JavaScript", "HTML", "CSS"],
+      "demo": "",
+      "source": "https://github.com/abhadani/reactProject/tree/main/01expenseTracker"
     }
   ]
