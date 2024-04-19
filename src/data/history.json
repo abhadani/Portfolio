@@ -1,18 +1,26 @@
 [
-    {
-      "role": "Software Engineer",
-      "organisation": "Leggett & PLatt",
-      "startDate": "Feb, 2023",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "Full-Stack Software Developer",
-      "organisation": "JDK Solutions",
-      "startDate": "Aug, 2015",
-      "endDate": "Nov, 2018",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    }
-  ]
+  {
+    "role": "Software Engineer",
+    "organisation": "Leggett & PLatt",
+    "startDate": "Feb, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Successfully developed a data-intensive, customer-facing website.",
+      "Refactored and optimized modules to improve performance and maintainability.",
+      "Implemented test cases for new product features using Jest."
+    ],
+    "imageSrc": ""
+  },
+  {
+    "role": "Full-Stack Software Developer",
+    "organisation": "JDK Solutions",
+    "startDate": "Aug, 2015",
+    "endDate": "Nov, 2018",
+    "experiences": [
+      "Developed and maintained web applications based on client requirements.",
+      "Implemented features like modals and form validation using jQuery and Bootstrap.",
+      "Developed Restful API using Model-View-Controller (MVC) and testing using JUnit."
+    ],
+    "imageSrc": "history/microsoft.png"
+  }
+]

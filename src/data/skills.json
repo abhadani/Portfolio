@@ -28,7 +28,15 @@
       "imageSrc": "skills/java.png"
     },
     {
+      "title": "Restful API",
+      "imageSrc": "skills/restApiIcon.png"
+    },
+    {
       "title": "MySQL",
       "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "TypeScript",
+      "imageSrc": "skills/typescript.png"
     }
 ]

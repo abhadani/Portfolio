@@ -10,7 +10,7 @@
     {
       "title": "Expense Tracker Web Application",
       "imageSrc": "projects/project.png",
-      "description": "web application to track daily expenses of the user.",
+      "description": "Web application to visualize and track daily expenses of the user.",
       "skills": ["React", "JavaScript", "HTML", "CSS"],
       "demo": "",
       "source": "https://github.com/abhadani/reactProject/tree/main/01expenseTracker"
